@@ -19,7 +19,5 @@ GlowUP aims to provide a scalable and user-friendly e-commerce solution that con
 - User Interaction: Users browse products, add items to the cart, and place orders.
 - System Processing: The platform handles requests, displays products, and manages orders.
 - Payment Handling: Payments are securely processed and confirmed.
-- Supplier & Admin Role: 
-- Suppliers manage inventory and product listings
-- Admins oversee the system, users, and catalog
+- Supplier & Admin Role: Suppliers manage inventory and product listings. Admins oversee the system, users, and catalog.
 - Order Completion: Users receive confirmation and can track their orders.
