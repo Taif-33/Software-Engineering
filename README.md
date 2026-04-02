@@ -5,14 +5,14 @@ GlowUP is an online e-commerce platform for trendy and quality apparel, designed
 GlowUP aims to provide a scalable and user-friendly e-commerce solution that connects users, suppliers, and administrators in one platform. The system enables seamless shopping experiences, efficient product management, and secure transaction processing. It also promotes digital transformation and supports sustainable economic growth.
 
 ## Features 
-👤 User account management (register, login, profile, order history)
-🛍️ Product browsing and search (by category, price, attributes)
-🛒 Shopping cart management (add, update, remove items)
-💳 Secure payment processing (cash/card options)
-📦 Order tracking and notifications
-🏪 Supplier inventory and product management
-⚙️ Admin dashboard for managing users and products
-🔒 Basic data privacy and security handling
+- User account management (register, login, profile, order history)
+- Product browsing and search (by category, price, attributes)
+- Shopping cart management (add, update, remove items)
+- Secure payment processing (cash/card options)
+- Order tracking and notifications
+- Supplier inventory and product management
+- Admin dashboard for managing users and products
+- Basic data privacy and security handling
 
 ## How It Works
 
