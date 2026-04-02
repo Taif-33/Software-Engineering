@@ -16,10 +16,10 @@ GlowUP aims to provide a scalable and user-friendly e-commerce solution that con
 
 ## How It Works
 
-1- User Interaction: Users browse products, add items to the cart, and place orders.
-2- System Processing: The platform handles requests, displays products, and manages orders.
-3- Payment Handling: Payments are securely processed and confirmed.
-4- Supplier & Admin Role: 
+- User Interaction: Users browse products, add items to the cart, and place orders.
+- System Processing: The platform handles requests, displays products, and manages orders.
+- Payment Handling: Payments are securely processed and confirmed.
+- Supplier & Admin Role: 
 - Suppliers manage inventory and product listings
 - Admins oversee the system, users, and catalog
-5- Order Completion: Users receive confirmation and can track their orders.
+- Order Completion: Users receive confirmation and can track their orders.
